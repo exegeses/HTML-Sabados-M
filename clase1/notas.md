@@ -44,3 +44,18 @@ Como requisito de conocimiento, sólo necesitan saber utilizar su sistema operat
 	<b>Texto modificado</b>
 
 
+### Insertar Imágenes
+
+>Para insertar imágenes se utiliza el elemento <img>
+
+    <img src="PATH">
+
+>Los formatos de imágenes más comunes y prácticos son: 
+
+  1. png
+  2. jpg
+  3. svg
+  4. gif
+
+
+
