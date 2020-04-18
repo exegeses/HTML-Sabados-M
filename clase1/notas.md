@@ -3,6 +3,7 @@
  1. Definición
  2. Requisitos
  3. Alcance
+ 4. Elementos o Etiquetas
 
 ## 1 Definición
 
@@ -29,5 +30,17 @@ Como requisito de conocimiento, sólo necesitan saber utilizar su sistema operat
 >Este curso tiene como objetivo que puedan conocer los fundamentos de desarrollo web. Para ello aprenderemos el lenguaje HTML y también algode del lenguaje CSS (para manejar al estética)
 >Un objetivo final es que puedan desarrollar su propio sitio web (un sitio sencillo/básico)
 
+## 4 Elementos o Etiquetas
+
+>En HTML tenemos instrucciones, se llaman elementos (también los pueden conocer como etiquetas o tags)
+>Cada elemento modifica un objeto
+
+>los elementos en HTML tienen un formato. 
+    se envuelven entre < y >
+
+>por ejemplo
+
+	texto en negrita es 
+	<b>Texto modificado</b>
 
 
