@@ -27,7 +27,7 @@ Como requisito de conocimiento, sólo necesitan saber utilizar su sistema operat
 
 ## 3 Alcance de este curso
 
->Este curso tiene como objetivo que puedan conocer los fundamentos de desarrollo web. Para ello aprenderemos el lenguaje HTML y también algode del lenguaje CSS (para manejar al estética)
+>Este curso tiene como objetivo que puedan conocer los fundamentos de desarrollo web. Para ello aprenderemos el lenguaje HTML y también algo del lenguaje CSS (para manejar al estética)
 >Un objetivo final es que puedan desarrollar su propio sitio web (un sitio sencillo/básico)
 
 ## 4 Elementos o Etiquetas
