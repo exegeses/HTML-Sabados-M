@@ -22,7 +22,7 @@
 > Vamos a usar una hoja de estilos externa
 
 > Enlazamos la hoja de estilos dentro del elemento   
-<head>. 
+> <head>
 > usando el elemento <link>
 
     <link rel="stylesheet" href="RUTA">
