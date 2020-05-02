@@ -17,7 +17,7 @@ nav{
 }
 	nav a{
 		background-color: #c2c2c2;
-		padding: 20px;
+		padding: 20px 30px;
 		display: inline-block;
 		color: #111;
 		text-decoration: none;
@@ -28,10 +28,21 @@ nav{
 
 main{
 	min-height: 500px;
+	width: 1020px;
+	margin: auto;
 }
+	main article{
+		width: 300px;
+		display: inline-block;
+		margin: 15px;
+	}
+
 footer{
 	height: 150px;
 	background-color: #24292E;
 	color: #fff;
+	text-align: center;
+	padding-top: 60px;
+
 }
 
