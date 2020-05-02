@@ -34,5 +34,38 @@
   5. <article>
   6. <footer>
 
-   
+## Publicación 
+
+> Poner online el sitio que hiciste. 
+> Copiar todos los archivos de mi sitio en un servidor web
+
+> Necesitamos dos requisitos fundamentales
+
+  1. Hosting o alojamiento de archivos
+  2. Nombre de dominio
+
+
+### 1. Hosting
+
+> Contratar alguna empresa de hosting
+
+  *. Gratis
+
+	000webhost https://www.000webhost.com/
+	buscar en google
+
+  *. Pago
+
+	Hostinger https://www.hostinger.com.ar/
+	Nuthost https://nuthost.com/es-ar/
+	LatinCloud https://latincloud.com/argentina/
+
+### 2. Dominio
+
+> Para registrar un .com.ar 
+    https://nic.ar/
+
+> Para registrar un .com
+    https://cart.godaddy.com/
+
 
