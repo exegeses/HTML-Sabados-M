@@ -1,3 +1,4 @@
+*{box-sizing: border-box;}
 body{
 	background-color: #F6F8FA;
 	color: #333;
@@ -12,7 +13,19 @@ header{
 nav{
 	background-color: #ccc;
 	height: 60px;
+	text-align: center;
 }
+	nav a{
+		background-color: #c2c2c2;
+		padding: 20px;
+		display: inline-block;
+		color: #111;
+		text-decoration: none;
+	}
+	nav a:hover{
+		background-color: #adadad;
+	}
+
 main{
 	min-height: 500px;
 }
